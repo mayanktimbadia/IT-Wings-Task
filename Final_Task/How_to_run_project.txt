@@ -1,0 +1,9 @@
+1.- goto the backend folder in project.
+	open terminal and install npm.
+	And start the server with [nodemon .\index.js] command.
+
+2- goto the frontend folder in project.
+	open terminal and install npm.
+	And run npm with [npm start] command.
+
+Image will save in image folder in public in backend part.
